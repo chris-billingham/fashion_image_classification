@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 images
+.DS_Store
+get_products_all.sql
+get_products.sql
